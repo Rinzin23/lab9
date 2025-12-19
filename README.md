@@ -1,1 +1,1 @@
-# lab9
+I would model a street vendor using a class because it has clear data like name, location, and goods sold, as well as actions such as displaying information and relocating. Using a class helps organize related data and behaviors in one place, making the program easier to understand and manage.
